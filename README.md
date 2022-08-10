@@ -17,5 +17,7 @@ This script was created due to the Windows can't connect to the WiFi AP with str
 4. Make executable file via pyinstaller
 
         pyinstall --path $FULL_PATH_TO_SERVICE_PY_FILE main.py --onefile
-5. Install it as service
-        ./build/main.exe
+5. Install it as service 
+
+
+      ./build/main.exe
